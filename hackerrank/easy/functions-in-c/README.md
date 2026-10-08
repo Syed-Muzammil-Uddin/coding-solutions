@@ -60,12 +60,12 @@ Note: I/O will be automatically handled.
 
 ## Solution
 
-**Language:** C++  
+**Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-08T14:59:00.063Z  
+**Submitted:** 2026-10-08T15:05:26.027Z  
 
-```cpp
+```c
 #include <stdio.h>
 /*
 Add `int max_of_four(int a, int b, int c, int d)` here.
